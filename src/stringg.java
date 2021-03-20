@@ -35,15 +35,6 @@ public class stringg {
 		{
 			System.out.println("Not Present");
 		}
-		int s = s3.compareTo(s4);
-		if(s == 0)
-		{
-			System.out.println("String are same and value is : " +s);
-		}
-		else
-		{
-			System.out.println(s4.compareTo(s5));	
-		}
 		if (s2.isEmpty())
 		{
 			System.out.println("It is Empty String");
